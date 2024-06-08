@@ -1,6 +1,6 @@
 import express from 'express'
 const app = express()
-const port = 3000
+const port = 8080
 import {db_connection} from './DB/connection.js'
 import user from './DB/Models/user.model.js'
 import post from './DB/Models/post.model.js'
