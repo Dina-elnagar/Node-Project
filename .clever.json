@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_550f4d46-82e0-4695-bf88-d0bdab4c2337",
+      "org_id": "user_6259cb83-3527-4204-8286-59ee78e54ef0",
+      "deploy_url": "https://github.com/Dina-elnagar/Node-Project.git",
+      "git_ssh_url": "https://github.com/Dina-elnagar/Node-Project.git",
+      "name": "Node-Project",
+      "alias": "Node-Project"
+    }
+  ]
+}
